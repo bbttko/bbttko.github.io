@@ -12,4 +12,4 @@
 
 ## board images
 
-![zeowaa board](/image/ep4ce10_zeowaa.jpg)
+![zeowaa board](/image/ep4ce10_zeowaa.JPG)
