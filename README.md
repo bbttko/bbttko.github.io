@@ -12,29 +12,29 @@
 
 ## board images
 
-<img src="/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"><br>
+<img src="/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"/><br>
 zeowaa board
-	- ep4ce10
-	- 8x LEDs
-	- 2x buttons, 1x reset button
-	- EPCS16
-	
-<img src="/image/Cyc4StarterKit.JPG" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"><br>
+ - ep4ce10
+ - 8x LEDs
+ - 2x buttons, 1x reset button
+ - EPCS16
+
+<img src="/image/Cyc4StarterKit.JPG" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
 Cyclone4 starter kit
-	- ep4ce15
-	- ethernet GMII
-	- VGA 565
-	- SPI flash 8MBytes
-	- Winbond 32MB SDRAM
-	- serial port CP2102
-	- 1x button, 1x reset
-	- 7 segment (3)
-	- 2x LEDs
+ - ep4ce15
+ - ethernet GMII
+ - VGA 565
+ - SPI flash 8MBytes
+ - Winbond 32MB SDRAM
+ - serial port CP2102
+ - 1x button, 1x reset
+ - 7 segment (3)
+ - 2x LEDs
 	
-<img src="/image/Cyclone10_qmtech.JPG" width=50% alt="cyclone10 qmtech"><br>
-<img src="/image/StepFPGA_Max10.JPG" width=50% alt="max10 StepFPGA"><br>
-<img src="/image/TangPrimer_Anlogic.JPG" width=50% alt="Anlogic TangPrimer"><br>
-<img src="/image/TangNano9K.JPG" width=50% alt="Gowin TangNano9K"><br>
+<img src="/image/Cyclone10_qmtech.JPG" width=50% alt="cyclone10 qmtech"/><br>
+<img src="/image/StepFPGA_Max10.JPG" width=50% alt="max10 StepFPGA"/><br>
+<img src="/image/TangPrimer_Anlogic.JPG" width=50% alt="Anlogic TangPrimer"/><br>
+<img src="/image/TangNano9K.JPG" width=50% alt="Gowin TangNano9K"/><br>
 
 	
 	
