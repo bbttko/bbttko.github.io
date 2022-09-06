@@ -12,7 +12,7 @@
 
 ## board images
 
-##<u>zeowaa board</u><br>
+### <u>zeowaa board</u><br>
 <img src="https://bbttko.github.io/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"/><br>
  - ep4ce10
  - 8x LEDs
@@ -20,8 +20,8 @@
  - EPCS16
 
 
-##<u>Cyclone4 starter kit</u><br>
-<img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
+### <u>Cyclone4 starter kit</u><br>
+< img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
  - ep4ce15
  - ethernet GMII
  - VGA 565
@@ -33,8 +33,8 @@
  - 2x LEDs
 
 
-##<u>Max10 Step10</u><br>
-<img src="https://bbttko.github.io/image/StepFPGA_Max10.jpg" width=50% alt="max10 StepFPGA"/><br>
+### <u>Max10 Step10</u><br>
+< img src="https://bbttko.github.io/image/StepFPGA_Max10.jpg" width=50% alt="max10 StepFPGA"/><br>
  - Max10 10M08SAM
  - on board USB blaster
  - 7-segment (2x)
@@ -43,7 +43,7 @@
  - 8x LEDs
 
 
-##<u>Anlogic TangPrimer</u><br>
+### <u>Anlogic TangPrimer</u><br>
 <img src="https://bbttko.github.io/image/TangPrimer_Anlogic.jpg" width=50% alt="Anlogic TangPrimer"/><br>
  - Anlgic EG4S20 (SDRAM 64Mbit built-in)
  - on board JTAG, download debugger
@@ -54,7 +54,7 @@
  - FPC24P ZIF socket (camera)
 
 
-##<u>Gowin TangNano9k</u><br>
+### <u>Gowin TangNano9k</u><br>
 <img src="https://bbttko.github.io/image/TangNano9K.jpg" width=50% alt="Gowin TangNano9K"/><br>
  - Gowin GW1NR-9
  - 32Mbit SPI flash
@@ -65,7 +65,7 @@
  - 2x button, 6x LEDs
 
 
-##<u>Cyclone10 QMTech</u><br>	
+### <u>Cyclone10 QMTech</u><br>	
 <img src="https://bbttko.github.io/image/Cyclone10_qmtech.jpg" width=50% alt="cyclone10 qmtech"/><br>
  - Cyclone10 10CL006
  - SPI flash 8MBytes
