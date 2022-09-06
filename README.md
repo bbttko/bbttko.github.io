@@ -13,7 +13,7 @@
 ## board images
 
 ### <u>zeowaa board</u>
-<img src="https://bbttko.github.io/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"/><br>
+<img src="https://bbttko.github.io/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"/>
  - ep4ce10
  - 8x LEDs
  - 2x buttons, 1x reset button
@@ -21,12 +21,11 @@
 
 
 ### <u>Cyclone4 starter kit</u>
-<img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
+<img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/>
  - ep4ce15
  - ethernet GMII
  - VGA 565
- - SPI flash 8MBytes
- - Winbond 32MB SDRAM
+ - Winbond 32MB SDRAM, SPI flash 8MBytes
  - serial port CP2102
  - 1x button, 1x reset
  - 7-segment display (3)
