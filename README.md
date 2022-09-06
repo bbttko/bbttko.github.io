@@ -12,7 +12,7 @@
 
 ## board images
 
-### <u>zeowaa board</u><br>
+### <u>zeowaa board</u>
 <img src="https://bbttko.github.io/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"/><br>
  - ep4ce10
  - 8x LEDs
@@ -20,8 +20,8 @@
  - EPCS16
 
 
-### <u>Cyclone4 starter kit</u><br>
-< img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
+### <u>Cyclone4 starter kit</u>
+<img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
  - ep4ce15
  - ethernet GMII
  - VGA 565
@@ -34,7 +34,7 @@
 
 
 ### <u>Max10 Step10</u><br>
-< img src="https://bbttko.github.io/image/StepFPGA_Max10.jpg" width=50% alt="max10 StepFPGA"/><br>
+<img src="https://bbttko.github.io/image/StepFPGA_Max10.jpg" width=50% alt="max10 StepFPGA"/><br>
  - Max10 10M08SAM
  - on board USB blaster
  - 7-segment (2x)
