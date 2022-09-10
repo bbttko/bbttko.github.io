@@ -33,13 +33,13 @@
 
 
 ### <u>Max10 Step10</u><br>
+PicoRV - [PicoRV-StepFPGA](https://github.com/bbttko/PicoRV-StepFPGA)<br>
 <img src="https://bbttko.github.io/image/StepFPGA_Max10.jpg" width=50% alt="max10 StepFPGA"/><br>
  - Max10 10M08SAM
  - on board USB blaster
  - 7-segment (2x)
  - 2x RGB leds / 8x LEDs
- - 4x switches / 4x buttons
-PicoRV - [PicoRV-StepFPGA](https://github.com/bbttko/PicoRV-StepFPGA)
+ - 4x switches / 4x buttons<br>
 
 
 ### <u>Anlogic TangPrimer</u><br>
@@ -54,6 +54,9 @@ PicoRV - [PicoRV-StepFPGA](https://github.com/bbttko/PicoRV-StepFPGA)
 
 
 ### <u>Gowin TangNano9k</u><br>
+PicoRV - [PicoRV-TangNano9K](https://github.com/bbttko/PicoRV-TangNano9K)<br>
+using LCD Led - [Tang9k-lcdled](https://github.com/bbttko/Tang9k-lcdled)<br>
+SDCard - [Tang9k-sdcard-test](https://github.com/bbttko/Tang9k-sdcard-test)<br>
 <img src="https://bbttko.github.io/image/TangNano9K.jpg" width=50% alt="Gowin TangNano9K"/><br>
  - Gowin GW1NR-9
  - 32Mbit SPI flash
@@ -61,10 +64,7 @@ PicoRV - [PicoRV-StepFPGA](https://github.com/bbttko/PicoRV-StepFPGA)
  - SPI LCD ZIF (display)
  - RGB LCD ZIF (display)
  - onboard JTAG, USB-C, & usb-uart
- - 2x button, 6x LEDs
-PicoRV - [PicoRV-TangNano9K](https://github.com/bbttko/PicoRV-TangNano9K)
-using LCD Led - [Tang9k-lcdled](https://github.com/bbttko/Tang9k-lcdled)
-SDCard - [Tang9k-sdcard-test](https://github.com/bbttko/Tang9k-sdcard-test)
+ - 2x button, 6x LEDs<br>
 
 
 ### <u>Cyclone10 QMTech</u><br>	
