@@ -13,7 +13,7 @@
 ## board images
 
 ### <u>zeowaa board</u>
-\<img src="https://bbttko.github.io/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"/><br>
+<img src="https://bbttko.github.io/image/ep4ce10_zeowaa.JPG" width=50% alt="ep4ce10 zeowaa board"/><br>
  - ep4ce10
  - 8x LEDs
  - 2x buttons, 1x reset button
@@ -21,7 +21,7 @@
 
 
 ### <u>Cyclone4 starter kit</u>
-\<img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
+<img src="https://bbttko.github.io/image/Cyc4StarterKit.jpg" width=50% alt="ep4ce15 qmtech cyclone4 starter kit"/><br>
  - ep4ce15
  - ethernet GMII
  - VGA 565
@@ -37,9 +37,9 @@
  - Max10 10M08SAM
  - on board USB blaster
  - 7-segment (2x)
- - 2x RGB leds
+ - 2x RGB leds / 8x LEDs
  - 4x switches / 4x buttons
- - 8x LEDs
+PicoRV - [PicoRV-StepFPGA](https://github.com/bbttko/PicoRV-StepFPGA)
 
 
 ### <u>Anlogic TangPrimer</u><br>
@@ -62,6 +62,9 @@
  - RGB LCD ZIF (display)
  - onboard JTAG, USB-C, & usb-uart
  - 2x button, 6x LEDs
+PicoRV - [PicoRV-TangNano9K](https://github.com/bbttko/PicoRV-TangNano9K)
+using LCD Led - [Tang9k-lcdled](https://github.com/bbttko/Tang9k-lcdled)
+SDCard - [Tang9k-sdcard-test](https://github.com/bbttko/Tang9k-sdcard-test)
 
 
 ### <u>Cyclone10 QMTech</u><br>	
