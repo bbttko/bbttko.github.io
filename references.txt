@@ -1,1 +1,5 @@
-https://www.taniarascia.com/make-a-static-website-with-jekyll/
+Markdown reference
+    https://www.markdownguide.org/basic-syntax/
+
+Jekyll 
+    https://www.taniarascia.com/make-a-static-website-with-jekyll/
