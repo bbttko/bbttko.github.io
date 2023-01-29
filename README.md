@@ -10,6 +10,7 @@
 | [Cyclone10 10CL006](https://github.com/bbttko/QM_Cyclone10_10CL006) | qmtech | altera | <img src="https://bbttko.github.io/Cyclone10_qmtech.jpg" width=10% alt="cyclone10 qmtech"/> | Micron 32MB SDRAM, 8MByte SPI Flash |
 
 
+![](./ep4ce10_zeowaa.JPG)
 
 
 ## board images
