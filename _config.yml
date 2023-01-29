@@ -1,12 +1,16 @@
 # Site settings
 title: btko's site
 url: 'http://github.io/bbttko'
-plugins: jekyll-relative-links
+#plugins: jekyll-relative-links
+plugins: 
+- jekyll-relative-links
+- jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 include: README.md
-theme: jekyll-theme-architect
+remote_theme: pages-themes/architect@v0.2.0
+#theme: jekyll-theme-leap-day
 
 # Build Settings
 markdown: kramdown
