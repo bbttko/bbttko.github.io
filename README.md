@@ -1,8 +1,8 @@
 [//]: <> (reference https://www.markdownguide.org/basic-syntax/)
 
-## fpga boards
+## boards
 
-| fpga              | Board name | company | board image | notes | repos |
+| fpga              | board name | company | board image | notes | repos |
 |-------------------|------------|:--------:|:------------:|-----|-------|
 | [CycloneIV	EP4CE10](https://www.aliexpress.com/item/32812945851.html?spm=a2g0o.order_list.0.0.21ef1802oBoC0a) | _zeowaa_ | ![](./images/altera.jpg)   | ![](./images/ep4ce10_zeowaa.JPG) | <sub><sup>LEDs(8)<br>Buttons(2)<br>Reset(1)<br>EPCS16</sup></sub> |
 | [CycloneIV EP4CE15](https://github.com/bbttko/CYCLONE_IV_STARTER_KIT) | QMtech Cyclone4 starter kit | ![](./images/altera.jpg)   | ![](./images/Cyc4StarterKit.jpg "ep4ce15 qmtech cyclone4 starter kit") | <sub><sup>GMII ethernet<br>VGA 565<br>Winbond 32MB SDRAM<br>SPI flash 8Mbytes<br>CP2102 UART<br>Button(1)<br>Reset(1)<br>7-Seg (3)<br>Leds(2)</sup></sub> |
