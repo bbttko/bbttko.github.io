@@ -1,5 +1,8 @@
 Markdown reference
     https://www.markdownguide.org/basic-syntax/
 
+Emojis in markdown
+    https://gist.github.com/rxaviers/7360908
+
 Jekyll 
     https://www.taniarascia.com/make-a-static-website-with-jekyll/
