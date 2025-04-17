@@ -6,3 +6,5 @@ Emojis in markdown
 
 Jekyll 
     https://www.taniarascia.com/make-a-static-website-with-jekyll/
+    https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
+
