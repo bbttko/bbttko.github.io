@@ -48,3 +48,22 @@ div.indexContainer > a {
 div.indexContainer > a>* {
     margin: 0;
 }
+
+
+/* table style */
+tr:nth-child(even) {
+    background-color: rgb(247, 247, 247);
+}
+td, th {
+    border-style:solid;
+    border-color: rgb(245, 245, 245);
+}
+
+/* a href without underline */
+.link_no_ul {
+    text-decoration:none;
+}
+
+a:hover {
+    background-color:rgb(206, 223, 230);
+}

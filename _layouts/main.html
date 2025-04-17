@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="/assets/style.css">
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <section>
+            <h1>{{site.title}}</h1>
+            <hr>
+            <!-- Main section -->
+            <h3>
+            <a href="https://www.linkedin.com/in/btko" class="link_no_ul">LinkedIn Profile</a><br>
+            <a href="https://docs.google.com/document/d/1g8aKjERZoo_tcRW6_4wciCFlCWAYo1YGsyRzFRHPOxY/edit?usp=drive_link" class="link_no_ul">Resume</a> [Oct 2024], please request for access<br>
+            </h3>
+            <hr>
+            <br>
+
+            <!-- Project section -->
+            {% assign cur_section = "null" %}
+                {% for data in site.data.links %}
+                    {% if cur_section != data.section %}
+                        {% assign cur_section = data.section %}
+                        <h2 style="color:green">{{data.section}}</h2>
+                        <hr>
+                    {% endif %}
+                    <div class="indexContainer">
+                        <a href="{{data.link}}" style="text-decoration: none;">
+                            <h3 style="color:darkblue">{{data.title}}</h3>
+                            <p>{{data.link_text}}</p>
+                        </a>
+                    </div>
+                {% endfor %}
+
+        </section>
+    </body>
+
+</html>
