@@ -4,7 +4,7 @@ FPGA,PicoRV reference (altera) - blink / serial port / interrupt etc,StepFPGA Al
 FPGA,fpga boards,Altera / Gowin / Anlogic FPGA boards,/fpga_boards
 FPGA,Preamp SSP sniffer [not released],"HDD Synchronous Serial Port and HW pin sniffer, custom decode for different suppliers",
 FPGA,SIF tx [not released],HDD Preamp programmable SIF R/W with toggling of RW and PowerSave pins,
-Software,Value change dump tool (Python),Python script to process value change dump - to convert sniffer csv to vcd file for viewing in GTKWave or Modelsim,
+Software,Value change dump tool (Python),Python script to process value change dump - to convert sniffer csv to vcd file for viewing in GTKWave or Modelsim,https://github.com/bbttko/vcd_tools
 Software,react TicTacToe,Tic Tac Toe game with react.js,/react_ttt
 STM32,blink bare metal,github link,https://github.com/bbttko/Blink_F103-GCC
 STM32,pwm dma (private),github link,https://github.com/bbttko/stm32-pwmout-dma
